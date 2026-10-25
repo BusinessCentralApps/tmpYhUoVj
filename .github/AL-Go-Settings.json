@@ -4,5 +4,6 @@
   "useCompilerFolder": true,
   "templateUrl": "https://github.com/businesscentralapps/tmpageVVM-PTE@main",
   "doNotPublishApps": true,
-  "MicrosoftTelemetryConnectionString": ""
+  "MicrosoftTelemetryConnectionString": "",
+  "templateSha": "9cc8842d2e3f7c9e7b96d7587f6bc4ed184678ed"
 }
